@@ -1,10 +1,31 @@
-x = 6
+x = 7 
 
 
-y = 5 
+y = 23
 
 
-if x > y:
-	print("x > y")
+
+av = x + y / 2
+
+
+print(av)
+
+
+if av > y:
+
+    print("average > y ")
+
 else:
-	print("y > x")
+
+    print("y > av")
+
+if av > x:
+
+
+    print("av > x")
+
+
+else:
+
+    
+    print("x > av")

@@ -5,3 +5,20 @@ if y > x:
 else:
     print(" x is greater than y")
 run with (ctrl+b)
+
+x = 7 
+
+y = 23
+
+av = x + y / 2
+
+
+print(x + y / 2)
+
+
+if x + y / 2 > y & x:
+
+    print("average is bigger")
+else:
+    
+    print("y is bigger")
